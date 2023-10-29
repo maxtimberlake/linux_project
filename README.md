@@ -7,7 +7,7 @@ At my organization, the research team is tasked with revising the file permissio
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
+- <b>Linux</b> 
 
 
 <h2>Check file and directory details:</h2>
